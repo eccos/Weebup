@@ -308,6 +308,10 @@ svg {
   vertical-align: middle;
 }
 
+img {
+  width: 100%;
+}
+
 table {
   caption-side: bottom;
   border-collapse: collapse;
